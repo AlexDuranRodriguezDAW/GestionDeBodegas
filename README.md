@@ -27,4 +27,4 @@ Este proyecto es una aplicación web para la gestión de bodegas y vinos. Permit
 
 ## Autor
 
-- **Alex Duran** - [GitHub](https://github.com/tu_usuario)
+- **Alex Duran** - [GitHub](https://github.com/AlexDuranRodriguezDAW)
