@@ -1,2 +1,2 @@
 # GestionDeBodegas
-Ejercicio de gestion de bodegas
+Ejercicio de gestion de bodegas AlexDuran
